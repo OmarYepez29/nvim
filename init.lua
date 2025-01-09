@@ -17,3 +17,4 @@ end
 require "lazy_setup"
 require "lualine_setup"
 require "polish"
+vim.cmd[[colorscheme tokyonight-storm]]
